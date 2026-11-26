@@ -2,7 +2,7 @@
 
 **证明署名：** Chain.Ren · 独立研究 · [完整证明](PROOF.md) · 版本日期：2026-11-26
 
-[固定版本证明](https://github.com/Asakitan/oeis-a247729/blob/proof-v1.0.0/PROOF.md) · [GitHub Release 与公开时间](https://github.com/Asakitan/oeis-a247729/releases/tag/proof-v1.0.0) · [引用信息](CITATION.cff)
+[固定版本证明](https://github.com/Asakitan/oeis-a247729/blob/proof-v1.0.1/PROOF.md) · [GitHub Release 与公开时间](https://github.com/Asakitan/oeis-a247729/releases/tag/proof-v1.0.1) · [引用信息](CITATION.cff)
 
 证明了 OEIS 所列十二个准多项式和一个普通生成函数。
 
@@ -17,5 +17,3 @@ python -B verify.py
 ~~~
 
 有理顶点消元给出周期上界 12，整数状态递推核验 84 项，每个余数类七项。
-
-本工作给出可复核证明，不主张最早提出公式或全球首证。

@@ -4,4 +4,4 @@
 
 [首页](README.md) · [证明](PROOF.md) · [工作记录](docs/session-log/README.md)
 
-**公开证明版本：** [proof-v1.0.0](https://github.com/Asakitan/oeis-a247729/releases/tag/proof-v1.0.0)，版本日期 2026-11-26；署名 Chain.Ren（独立研究）。
+**公开证明版本：** [proof-v1.0.1](https://github.com/Asakitan/oeis-a247729/releases/tag/proof-v1.0.1)，版本日期 2026-11-26；署名 Chain.Ren（独立研究）。

@@ -3,9 +3,9 @@ message: "To cite the independently released proof and verification materials, u
 title: "A247729: counting six entries with unequal disjoint pair sums in four-entry windows"
 authors:
   - family-names: "Chain.Ren"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-11-26"
-url: "https://github.com/Asakitan/oeis-a247729/releases/tag/proof-v1.0.0"
+url: "https://github.com/Asakitan/oeis-a247729/releases/tag/proof-v1.0.1"
 repository-code: "https://github.com/Asakitan/oeis-a247729"
 license: MIT
 preferred-citation:
@@ -13,6 +13,6 @@ preferred-citation:
   title: "A247729: counting six entries with unequal disjoint pair sums in four-entry windows"
   authors:
     - family-names: "Chain.Ren"
-  version: "1.0.0"
+  version: "1.0.1"
   year: 2026
-  url: "https://github.com/Asakitan/oeis-a247729/blob/proof-v1.0.0/PROOF.md"
+  url: "https://github.com/Asakitan/oeis-a247729/blob/proof-v1.0.1/PROOF.md"
