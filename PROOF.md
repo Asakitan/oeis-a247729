@@ -1,5 +1,11 @@
 # A247729：六项整数数组的计数
 
+**署名：** Chain.Ren · 独立研究
+
+**版本：** [proof-v1.0.0](https://github.com/Asakitan/oeis-a247729/releases/tag/proof-v1.0.0) · 版本日期：2026-11-26（Australia/Sydney）；实际公开时间见 Release。
+
+本证明与验证资料在 OpenAI Codex 的实质协助下形成；不代表学校成果，不主张已完成同行评审或核定全球首证。
+
 令 $a(n)$ 为字母取自 $\{0,\ldots,n\}$ 的有序六元组数，三个连续四项窗内都不允许两对互不相交下标有相同的和。本项目证明 [OEIS A247729](https://oeis.org/A247729) 的十二个经验准多项式和 R. J. Mathar 所列普通生成函数对所有 $n\ge0$ 成立。
 
 ## 计数公式
